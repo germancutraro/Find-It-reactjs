@@ -6,6 +6,8 @@
 
 ## Instalation
 
+**You must have Node.js installed to use it**
+
 Install all dependencies
 
 ```
